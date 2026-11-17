@@ -12,6 +12,7 @@
 // F = (30 *9/5) + 32 = 86
 
 // 2. JavaScript Code
+
 let celsius = 30;
 
 let fahrenheit = (celsius * 9) / 5 + 32;
